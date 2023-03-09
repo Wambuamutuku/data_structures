@@ -4,7 +4,7 @@ Time complexity of queue operations: O(1) for enqueue, O(n) for dequeue (n is th
 Time complexity of stack operations: O(1)
 
 Authors
-dennis muuo
-wambua mutuku
-james wainaina
+dennis muuo || 
+wambua mutuku ||
+james wainaina ||
 charles
