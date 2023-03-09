@@ -1,0 +1,18 @@
+/*
+dennis muuo mutie- COM/B/01-00144/2021
+wambua mutuku -COM/B/01-00140/2021
+james wainaina-COM/B/01-00135/2021
+Otieno Charles Odhiambo COM/B/01-00462/2020
+
+*/
+public class Main {
+    public static void main(String[] args) {
+
+        Queue s = new Queue();
+        s.enqueue(12);
+        s.enqueue(13);
+        s.enqueue(14);
+        s.enqueue(15);
+        System.out.println(s.isEmpty());
+    }
+}
